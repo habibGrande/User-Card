@@ -1,0 +1,38 @@
+.main{
+    height: 375px;
+    width: 670px;
+    background-color: #cccccc;
+    margin-left: 30%;
+    margin-top: 8%;
+
+}
+.cnt1{
+    height: 100px;  
+    background-color: #17a2b8;
+}
+.cnt2{
+    height: 270px;
+    background-color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.raw{
+    padding-left: 20px;
+}
+.img1{
+    width: 100px;
+    height: 100px;
+    margin-top: -50px;
+    border: #cccccc;
+    margin-left: 30px;
+}
+
+.img2{
+    width: 13px;
+    height: 22px;
+}
+.img3{
+    width: 12px;
+    height: 13px;
+}
